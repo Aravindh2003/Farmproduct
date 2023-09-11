@@ -1,0 +1,144 @@
+body{
+    scroll-behavior: smooth;
+}
+li{
+display:flex;
+float:left;
+padding-left:60px;
+}
+ul{
+    padding-left: 900px;
+    font-size:large;
+}
+header{
+    background-color: rgb(15, 205, 15);
+    height:100px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.Slide
+{
+	
+	width:100%;
+	height:240px;
+}
+.row img:hover
+{
+	transform: scale(1.1);
+}
+.c{
+   width:300px;
+   display: flex;
+   float:left;
+   padding-left: 50px;
+   padding-top: 30px;
+   
+}
+img{
+    width: 300px;
+}
+
+.row{
+    float: left;
+    padding-left: 60px;
+    padding-top: 30px;
+    align-items: center;
+}
+.row img{
+    border-radius:10px;
+    height: 400px;
+}
+.new{
+    padding-left: 70px;
+    padding-top: 50px;
+}
+
+fieldset{
+    margin-left: 30px;
+    margin-top: 700px;
+    padding: 30px;
+    border-radius: 10px;
+}
+.vid{
+    padding-left: 350px;
+}
+
+.btn{
+    background-color:red;
+    color: white;
+    width:100px;
+    height:40px;
+    border-radius:10px;
+}
+.btn:hover{
+    background-color: blue;
+}
+.con{
+    padding-top: 30px;
+    float:right;
+    padding-right:300px;
+}
+.add{
+    padding-top: 30px;
+    float:left;
+    padding-left:300px;
+    padding-top: 100px;
+}
+.f {
+        width: 100px;
+        padding-top:10px;
+    
+}
+
+.f input{
+    padding: 10px;
+    width:300px;
+    border-radius: 10px;
+}
+textarea{
+    border:solid;
+    padding-left:150px;
+    border-radius: 10px;
+}
+button{
+    margin-left:110px;
+    margin-top: 10px;
+    text-align:center;
+    height:40px;
+    width:100px;
+    border-radius: 20px;
+    color:white;
+    background-color: red;
+}
+button:hover{
+    background-color: blue;
+}
+input:hover{
+    background-color:azure;
+}
+textarea:hover{
+    background-color:azure;
+}
+.add{
+    padding-top:20px;
+    padding-left:350px;
+}
+.icon img{
+    width:100px;
+    height:100px;
+
+}
+.icon{
+    padding-top:150px;
+    padding-left:300px;
+}
+footer{
+    margin-top: 80px;
+    background-color: rgb(15, 205, 15);
+    padding: 30px;
+    text-align: center;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+}
